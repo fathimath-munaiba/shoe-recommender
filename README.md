@@ -33,12 +33,13 @@ SoleSelect/
 ## 📈 Example Output
 
 ### 🔍 Top-5 Recommendations:
-```text
+
 Nike Air Zoom Pegasus 39
 Nike Revolution 6
 Nike Winflo 8
 Nike Flex Experience Run 10
 Nike Downshifter 11
+
 
 ## 📊 Dataset Source
 
