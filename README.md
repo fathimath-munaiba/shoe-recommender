@@ -39,3 +39,7 @@ Nike Revolution 6
 Nike Winflo 8
 Nike Flex Experience Run 10
 Nike Downshifter 11
+
+## 📊 Dataset Source
+
+The dataset is a curated compilation of shoe product listings sourced from public e-commerce platforms such as Flipkart via the [Crawlfeed API](https://www.crawlfeed.com/). It has been standardized and cleaned for use in product recommendation tasks.
